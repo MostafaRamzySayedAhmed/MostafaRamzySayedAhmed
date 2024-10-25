@@ -1,6 +1,5 @@
 # Hello There 👋
-# Thanks for Visiting 👋
-# Welcome to My Portfolio 🎉
+# Welcome to My Portfolio & Thanks for Visiting 🎉
 
 ## Summary
 
