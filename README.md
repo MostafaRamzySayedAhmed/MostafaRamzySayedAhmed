@@ -28,9 +28,9 @@
 - **Project Management Frameworks**: PRINCE2 (Foundation).
 
 ## Contacts
-- **Skype:** Mostafa Ramzy Sayed Ahmed
-- **E-Mail:** [MostafaRamzySayedAhmed@gmail.com](mailto:MostafaRamzySayedAhmed@gmail.com)
-- **GitHub:** [MostafaRamzySayedAhmed](https://github.com/MostafaRamzySayedAhmed)
-- **HackerRank:** [Profile](https://www.hackerrank.com/profile/MRamzy)
-- **Medium:** [Articles](https://medium.com/@MostafaRamzySayedAhmed)
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/MostafaRamzySayedAhmed)
+- **Skype**: Mostafa Ramzy Sayed Ahmed
+- **E-Mail**: (mailto:MostafaRamzySayedAhmed@gmail.com)
+- **GitHub**: (https://github.com/MostafaRamzySayedAhmed)
+- **HackerRank**: (https://www.hackerrank.com/profile/MRamzy)
+- **Medium**: (https://medium.com/@MostafaRamzySayedAhmed)
+- **LinkedIn**: (https://www.linkedin.com/in/MostafaRamzySayedAhmed)
