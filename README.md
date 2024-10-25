@@ -1,5 +1,5 @@
 # Hello There 👋
-
+# Thanks for Visiting 👋
 # Welcome to My Portfolio 🎉
 
 ## Summary
@@ -45,25 +45,25 @@
 
 ## Certificates
 
-- **Oracle Cloud Infrastructure Certified Foundations**: Oracle.
-- **VMware vSphere Data Center Virtualization (VCP-DCV)**: T-Plus Training & Services.
-- **CompTIA Security+ Certified**: CompTIA.
-- **AWS Certified Solutions Architect**: Amazon Web Services (AWS).
-- **Microsoft Certified: Azure Solutions Architect**: Microsoft.
-- **Microsoft Certified: Azure Developer**: Microsoft.
-- **Microsoft Certified: Azure DevOps Engineer**: Microsoft.
-- **Microsoft Certified: Azure Administrator**: Microsoft.
-- **Certified Kubernetes Application Developer (CKAD)**: The Linux Foundation.
-- **HashiCorp Certified: Terraform Associate**: HashiCorp.
-- **Certified Kubernetes Administrator (CKA)**: The Linux Foundation.
-- **Cloud & Virtualization Concepts**: VMware IT Academy.
-- **Red Hat Certified System Admin (RHCSA)**: Red Hat.
-- **Microsoft Certified: Azure Fundamentals**: Microsoft.
-- **CompTIA Network+ Certified**: CompTIA.
-- **AWS Certified Cloud Practitioner**: Amazon Web Services (AWS).
-- **ICAgile Certified Professional - Agile Fundamentals**: ICAgile.
-- **Professional Scrum Master**: Scrum.org.
-- **ITIL4 Foundation**: AXELOS Global Best Practice.
+- **Oracle Cloud Infrastructure Certified Foundations**: **Oracle**.
+- **VMware vSphere Data Center Virtualization (VCP-DCV)**: **T-Plus Training & Services**.
+- **CompTIA Security+ Certified**: **CompTIA**.
+- **AWS Certified Solutions Architect**: **Amazon Web Services (AWS)**.
+- **Microsoft Certified: Azure Solutions Architect**: **Microsoft**.
+- **Microsoft Certified: Azure Developer**: **Microsoft**.
+- **Microsoft Certified: Azure DevOps Engineer**: **Microsoft**.
+- **Microsoft Certified: Azure Administrator**: **Microsoft**.
+- **Certified Kubernetes Application Developer (CKAD)**: **The Linux Foundation**.
+- **HashiCorp Certified: Terraform Associate**: **HashiCorp**.
+- **Certified Kubernetes Administrator (CKA)**: **The Linux Foundation**.
+- **Cloud & Virtualization Concepts**: **VMware IT Academy**.
+- **Red Hat Certified System Admin (RHCSA)**: **Red Hat**.
+- **Microsoft Certified: Azure Fundamentals**: **Microsoft**.
+- **CompTIA Network+ Certified**: **CompTIA**.
+- **AWS Certified Cloud Practitioner**: **Amazon Web Services (AWS)**.
+- **ICAgile Certified Professional - Agile Fundamentals**: **ICAgile**.
+- **Professional Scrum Master**: **Scrum.org**.
+- **ITIL4 Foundation**: **AXELOS Global Best Practice**.
 
 ## Contacts
 
