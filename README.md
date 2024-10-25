@@ -29,8 +29,8 @@
 
 ## Contacts
 - **Skype**: Mostafa Ramzy Sayed Ahmed
-- **E-Mail**: (mailto:MostafaRamzySayedAhmed@gmail.com)
-- **GitHub**: (https://github.com/MostafaRamzySayedAhmed)
-- **HackerRank**: (https://www.hackerrank.com/profile/MRamzy)
-- **Medium**: (https://medium.com/@MostafaRamzySayedAhmed)
-- **LinkedIn**: (https://www.linkedin.com/in/MostafaRamzySayedAhmed)
+- **E-Mail**: mailto:MostafaRamzySayedAhmed@gmail.com
+- **GitHub**: https://github.com/MostafaRamzySayedAhmed
+- **HackerRank**: https://www.hackerrank.com/profile/MRamzy
+- **Medium**: https://medium.com/@MostafaRamzySayedAhmed
+- **LinkedIn**: https://www.linkedin.com/in/MostafaRamzySayedAhmed
