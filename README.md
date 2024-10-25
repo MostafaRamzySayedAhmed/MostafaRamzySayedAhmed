@@ -1,7 +1,7 @@
 # Hello There 👋
-# Thanks for Visiting 👋
+# Thanks for Visiting 🤝
 # Welcome to My Portfolio 🎉
-# Feel Free to Explore My Projects & Connect with Me
+# Feel Free to Explore My Projects & Contact Me 🚀
 
 ## Summary
 
