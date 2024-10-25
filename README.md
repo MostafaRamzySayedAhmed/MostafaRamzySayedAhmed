@@ -1,3 +1,7 @@
+# Hello There 👋
+
+# Welcome to My Portfolio 🎉
+
 ## Summary
 
 **Senior DevOps Engineer** with Over Seven Years of Experience in Applying DevOps Best Practices, Implementing Fully Automated CI/CD Pipelines, Reducing Deployments Time & Increasing its’ Frequency, Skilled in Infrastructure Automation, Configuration Management, Continuous Monitoring & Alerting Systems, Collaborating with Development Teams to Implement Security Policies, Measures & Testing Procedures, Reducing Infrastructure Costs, Increasing Systems Reliability and Optimizing its’ Efficiency.
