@@ -10,7 +10,7 @@ Senior DevOps Engineer with Over Seven Years of Proficient Experience in Applyin
 
 I’m Always Open to Collaborating on Interesting Projects, Discussing Ideas & Connecting with Fellow Developers. If You Have Any Questions, Feel Free to Reach out.
 
-## How to Reach Me 📬
+## How to Reach out 📬
 
 - Email: [mostafaramzysayedahmed@gmail.com](mailto:MostafaRamzySayedAhmed@gmail.com)
 - LinkedIn: [linkedin.com/in/mostafaramzysayedahmed](https://www.linkedin.com/in/MostafaRamzySayedAhmed)
