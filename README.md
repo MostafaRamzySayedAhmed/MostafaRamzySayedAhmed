@@ -1,5 +1,5 @@
 # Welcome to My Portfolio! 👋
-# Join Me on My Open-Source Adventure! 🤝
+# Join Me on My Open Source Adventure! 🤝
 # Explore, Learn & Build with Me! Let's Collaborate ... 🌍
 
 ## About Me 🚀
